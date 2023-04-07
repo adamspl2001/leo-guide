@@ -1,14 +1,14 @@
 body {
-    background-color: beige;
+    background-color: white;
 }
 
 h1, h4 {
-    text-align: center;
+    text-justify: center;
     color: black;
 }
 
 .hero{
-    background-image: url('images/leo-1.jpeg');
+    background-image: url('images/hero-1.png');
     height: 400px;
     background-position: center;
 }
