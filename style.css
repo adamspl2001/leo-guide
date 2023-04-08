@@ -16,3 +16,7 @@ h1, h4 {
 .head {
     justify-content: center;
 }
+
+.row {
+    padding-bottom: 30px;
+}
